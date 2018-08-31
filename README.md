@@ -16,3 +16,4 @@ In this project I explore the the sales of video games across the globe using di
 I chose to do this project because I like playing games and am interested in whether or not reviews really matter in determining the sales of a game. These days many games are sold as a pre-order package before the game is actually out so people buy games before they even know if they are good or not. 
 
 First, I took the top publishers because they are the ones that usually use the pre-order system the most. 
+![pyplot](index.png)
