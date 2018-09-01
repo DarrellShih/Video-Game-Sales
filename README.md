@@ -22,7 +22,7 @@ First, I took the top publishers because they are the ones with the money to pay
 
 Then I made a barchart showing the correlations of users scores and critic scores for each major publisher.
 
-![plot](https://github.com/DarrellShih/Video-Game-Sales/blob/master/images/correlation.png)
+![plot](https://github.com/DarrellShih/Video-Game-Sales/blob/master/images/corr.png)
 
 The correlation for Sega was the heightest and for Activision it was the lowest. This might suggest that Activision pays for positive reviews of their games to help sell it. But it also suggests that not all publishers practice this. Sega, Nintendo, and Ubisoft all have very high correlations between user scores and critic scores. So it maybe that it is not an industry wide practice and just something that a few publishers do to try to boost their sales. 
 
